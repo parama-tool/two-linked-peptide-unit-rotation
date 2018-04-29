@@ -1,5 +1,7 @@
 # two-linked-peptide-unit-rotation
-This python script can be used to "recreate" the Ramachandran map from scratch
+
+This repository contains the python script which can be used to "recreate" the Ramachandran map from scratch
+It also contains the dataset of coordinates of 1789 two-linked peptides units (peptide_unit_coordinates.txt), identified from small molecule crystal structures in Cambridge Structural Database. 
 
 To run the script type the following in command line:
   python peptide_rotation.py <file_name>
